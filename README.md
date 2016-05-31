@@ -16,6 +16,6 @@ React 관련하여 공유하고 싶은 코드가 있다면, push하여도 상관
   섹션 1 - an intro to React
   섹션 2 - Ajax Requests with React
 - 2주차
-  섹션 3 - Modeling Application State  
+  섹션 3 - Modeling Application State      
   섹션 4 - Managing App State with Redux
 ...
